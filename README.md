@@ -1,6 +1,7 @@
 # LoRaBERPython
 LoRa Modulation BER Simulator on Python adapted from https://github.com/bhomssi/LoRaBERMatlab/
 
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1l2OlBPFLrLTXXe57PUVUX1Wrehc8hH3g?usp=sharing) &ensp; **Use Example**.
 # Cite the original authors
 
 B. Al Homssi, K. Dakic, S. Maselli, H. Wolf, S. Kandeepan, and A. Al-Hourani, "IoT Network Design using Open-Source LoRa Coverage Emulator," in IEEE Access. 2021.
